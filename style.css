@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.container{
+    top:50%;
+    left:50%;
+    font-family:'orbitron',sans-serif;
+    color: rgb(67, 68, 70);
+    position: absolute;
+    font-weight: bold;
+    font-size: 80px;
+    transform: translate(-50%,-50%);
+}
